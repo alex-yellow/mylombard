@@ -1,0 +1,616 @@
+Uri: http://mylombard3105.kz/
+File Name: D:\Работа\Копии\mylombard3105.kz\index.htm
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/t/v567/images/mosaic/designs/design-ipumlvlrt-1583402997_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\v567\images\mosaic\designs\design-ipumlvlrt-1583402997_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/css/styles_articles_tpl.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\css\styles_articles_tpl.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/css/ms_site_default.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\css\ms_site_default.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/css/animate.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\css\animate.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.min.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.min.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/shared/s3/css/calendar.css
+File Name: D:\Работа\Копии\mylombard3105.kz\shared\s3\css\calendar.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/mosaic/symbols/symbol-ijq010kb5_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\mosaic\symbols\symbol-ijq010kb5_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/mosaic/symbols/symbol-imqa4cjj7_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\mosaic\symbols\symbol-imqa4cjj7_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/mosaic/symbols/symbol-ixaxemv8z_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\mosaic\symbols\symbol-ixaxemv8z_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/mosaic/symbols/symbol-imq8qoed5_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\mosaic\symbols\symbol-imq8qoed5_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/mosaic/symbols/symbol-iihk5xke3_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\mosaic\symbols\symbol-iihk5xke3_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/v567/images/mosaic/themes/ipumlvlrt-1583402997_theme-ib75fokcp.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\v567\images\mosaic\themes\ipumlvlrt-1583402997_theme-ib75fokcp.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/images/__cssbootstrap/theme_1592818546_bootstrap.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\images\__cssbootstrap\theme_1592818546_bootstrap.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-do-50-mrp-1
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-do-50-mrp-1.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-svyshe-50-mrp-1
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-svyshe-50-mrp-1.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-svyshe-50-mrp-po-102-npa-1
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-svyshe-50-mrp-po-102-npa-1.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-svyshe-50-mrp-po-102-npa-2
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-svyshe-50-mrp-po-102-npa-2.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/vopros-otvet
+File Name: D:\Работа\Копии\mylombard3105.kz\vopros-otvet.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/otzyvy
+File Name: D:\Работа\Копии\mylombard3105.kz\otzyvy.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/kontakty
+File Name: D:\Работа\Копии\mylombard3105.kz\kontakty.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/user/agreement
+File Name: D:\Работа\Копии\mylombard3105.kz\user\agreement.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/libs/jquery/1.10.2/jquery.min.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\libs\jquery\1.10.2\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/misc/form/1.2.0/s3.form.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\misc\form\1.2.0\s3.form.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.stub.min.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.stub.min.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/libs/lightgallery-proxy-to-hs/lightgallery.proxy.to.hs.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\libs\lightgallery-proxy-to-hs\lightgallery.proxy.to.hs.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/shared/s3/js/lang/ru.js
+File Name: D:\Работа\Копии\mylombard3105.kz\shared\s3\js\lang\ru.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/shared/s3/js/common.min.js
+File Name: D:\Работа\Копии\mylombard3105.kz\shared\s3\js\common.min.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153057
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/my/s3/js/site.min.js?1608873192
+File Name: D:\Работа\Копии\mylombard3105.kz\my\s3\js\site.min.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/my/s3/js/site/defender.min.js?1608873192
+File Name: D:\Работа\Копии\mylombard3105.kz\my\s3\js\site\defender.min.js
+Content Type: application/javascript
+
+Uri: https://cp.onicon.ru/loader/5f8a79aab887ee6c758b464b.js
+File Name: D:\Работа\Копии\mylombard3105.kz\loader\5f8a79aab887ee6c758b464b.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-l.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-l.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-l.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-l.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-l-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-l-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-l-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-r.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-r.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-r.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-r.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-s-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-s-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-s-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-s-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-s-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-s-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-s-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-s-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-e-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-e-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-e-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-e-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-e-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-e-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/open_sans/open_sans-e-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\open_sans\open_sans-e-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-t.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-t.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-t.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-t.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-t-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-t-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-t-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-t-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-l.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-l.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-l.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-l.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-l-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-l-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-l-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-l.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-l.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-l.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-l.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-l-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-l-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-l-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-l-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-r.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-r.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-r.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-r.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-m.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-m.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-m.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-m.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-m-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-m-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-m-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-m-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-s-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-s-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-s-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-s-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-s-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-s-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-s-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-s-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-b.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-b.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-b.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-b.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-b-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-b-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-e-b-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-e-b-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-bl.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-bl.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-bl.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-bl.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-bl-i.woff2
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-bl-i.woff2
+Content Type: application/octet-stream
+
+Uri: http://mylombard3105.kz/g/fonts/montserrat/montserrat-bl-i.woff
+File Name: D:\Работа\Копии\mylombard3105.kz\g\fonts\montserrat\montserrat-bl-i.woff
+Content Type: application/font-woff
+
+Uri: http://mylombard3105.kz/d/92.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\92.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/91.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\91.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/93.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\93.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/171.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\171.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/78.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\78.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/70.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\70.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/images/placeholder-featured-image.png
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\images\placeholder-featured-image.png
+Content Type: image/png
+
+Uri: http://mylombard3105.kz/d/82.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\82.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/135.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\135.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/134.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\134.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/235.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\235.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/234.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\234.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/images/yandex-map.png
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\images\yandex-map.png
+Content Type: image/png
+
+Uri: http://mylombard3105.kz/d/176.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\176.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/177.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\177.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/hrest_1.png
+File Name: D:\Работа\Копии\mylombard3105.kz\d\hrest_1.png
+Content Type: image/png
+
+Uri: http://mos-6219987.oml.ru/d/hrest_1.png
+File Name: D:\Работа\Копии\mylombard3105.kz\d\hrest_1-1.png
+Content Type: image/png
+
+Uri: http://mylombard3105.kz/d/12.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\12.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/d/111_0.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\d\111_0.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/t/v567/images/mosaic/designs/design-ipumlvlrt-1584002394_styles.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\v567\images\mosaic\designs\design-ipumlvlrt-1584002394_styles.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/article/article.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\article\article.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/t/v567/images/mosaic/themes/ipumlvlrt-1584002394_theme-ib75fokcp.css
+File Name: D:\Работа\Копии\mylombard3105.kz\t\v567\images\mosaic\themes\ipumlvlrt-1584002394_theme-ib75fokcp.css
+Content Type: text/css
+
+Uri: https://online.zakon.kz/document/?doc_id=32913350
+File Name: D:\Работа\Копии\mylombard3105.kz\document\index.htm
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/article/article.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\article\article.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153061
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-1.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153062
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-2.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/board/board.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\board\board.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/anketa/anketa.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\anketa\anketa.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/board/board.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\board\board.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/anketa/anketa.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\anketa\anketa.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153063
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-3.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/pages_additional_1_0/pages.additional.1.0.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\pages_additional_1_0\pages.additional.1.0.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/libs/jquery-popover/0.0.3/jquery.popover.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\libs\jquery-popover\0.0.3\jquery.popover.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/pages_additional_1_0/pages.additional.1.0.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\pages_additional_1_0\pages.additional.1.0.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153064
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-4.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-svyshe-50-mrp
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-svyshe-50-mrp.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/dogovor-prisoedineniya-do-50-mrp
+File Name: D:\Работа\Копии\mylombard3105.kz\dogovor-prisoedineniya-do-50-mrp.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/user/user.css
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\user\user.css
+Content Type: text/css
+
+Uri: http://mylombard3105.kz/user
+File Name: D:\Работа\Копии\mylombard3105.kz\user.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/user/user.js
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\user\user.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153065
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-5.js
+Content Type: application/javascript
+
+Uri: https://www.liveinternet.ru/
+File Name: D:\Работа\Копии\mylombard3105.kz\index-1.htm
+Content Type: text/html
+
+Uri: https:///
+File Name: D:\Работа\Копии\mylombard3105.kz\index-2.htm
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/__assets/e03b708bb32982dcc32ae3c2a613ae5d.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\__assets\e03b708bb32982dcc32ae3c2a613ae5d.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/__assets/c4173b0f0015b0ee9d1f2c74e4270cd9.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\__assets\c4173b0f0015b0ee9d1f2c74e4270cd9.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/6a765dbaf51376355d1a5a26a066c0ed.png
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\6a765dbaf51376355d1a5a26a066c0ed.png
+Content Type: image/png
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/72db85b5c85b163d49e4c3da6a7ab675.png
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\72db85b5c85b163d49e4c3da6a7ab675.png
+Content Type: image/png
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/f8935e657d5bacb78026bb2534008ba4.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\f8935e657d5bacb78026bb2534008ba4.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/1a7bd4bf5b3c920302a356b8ba97d02b.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\1a7bd4bf5b3c920302a356b8ba97d02b.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/36ace64c76f1a41200cb8bdb10b8e84a.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\36ace64c76f1a41200cb8bdb10b8e84a.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/073759333b3022a34e952350c9966118.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\073759333b3022a34e952350c9966118.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/5548348f35a3a8968e461f3fdb0b6606.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\5548348f35a3a8968e461f3fdb0b6606.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/471ab9c743e7c02cfed95f469bc1b5d7.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\471ab9c743e7c02cfed95f469bc1b5d7.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/8214ea809c2906e1fd00ec0ab28c8385.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\8214ea809c2906e1fd00ec0ab28c8385.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/9f0d792544cab528dd499cc3502f12af.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\9f0d792544cab528dd499cc3502f12af.jpg
+Content Type: image/jpeg
+
+Uri: http://mylombard3105.kz/g/templates/pages/2016.1/__assets/e777ea6aa6e65006b733f4ded9e2bd08.jpg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\templates\pages\2016.1\__assets\e777ea6aa6e65006b733f4ded9e2bd08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/
+File Name: D:\Работа\Копии\mylombard3105.kz\index-3.htm
+Content Type: text/html
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/&followup=https://plus.google.com/
+File Name: D:\Работа\Копии\mylombard3105.kz\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://api-maps.yandex.ru/2.1/?lang=ru&load=package.full&apikey=
+File Name: D:\Работа\Копии\mylombard3105.kz\2.1\json.txt
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153108
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-6.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/__assets/9104bb2ae35edb6b366bcbd7fc9e1dc0.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\__assets\9104bb2ae35edb6b366bcbd7fc9e1dc0.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/g/basestyle/1.0.0/__assets/ddb3b5b20d138937cb85a09a8d60b1ed.svg
+File Name: D:\Работа\Копии\mylombard3105.kz\g\basestyle\1.0.0\__assets\ddb3b5b20d138937cb85a09a8d60b1ed.svg
+Content Type: image/svg+xml
+
+Uri: http://mylombard3105.kz/user/forgot_password
+File Name: D:\Работа\Копии\mylombard3105.kz\user\forgot_password.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/user/register
+File Name: D:\Работа\Копии\mylombard3105.kz\user\register.html
+Content Type: text/html
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153109
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-7.js
+Content Type: application/javascript
+
+Uri: http://mylombard3105.kz/g/s3/mosaic/js/do/do.js?rnd=1609153114
+File Name: D:\Работа\Копии\mylombard3105.kz\g\s3\mosaic\js\do\do-8.js
+Content Type: application/javascript
+
