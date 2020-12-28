@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2176" height="1264" viewBox="0 0 2176 1264">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.7;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+        opacity: 0.04;
+      }
+    </style>
+  </defs>
+  <g id="_93.svg" data-name="93.svg" class="cls-1">
+    <path class="cls-2" d="M-32,4094l120-66,164,46,274-154,208,56,372-228,298,78,366-200,400,110,4,470-226,266L606,4890l-638-32V4094Z" transform="translate(0 -3626)"/>
+    <path class="cls-2" d="M1770,3626L-30,4611v87l210,58,274-160,142,44,402-214,204,64,374-214,276,80,320-186,4-430L1106,4346Z" transform="translate(0 -3626)"/>
+    <path class="cls-2" d="M-36,4370L984,3796,532,4328l834-456L704,4628l-94,58-648,80Z" transform="translate(0 -3626)"/>
+  </g>
+</svg>
